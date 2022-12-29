@@ -2,7 +2,8 @@
 
 ## About 
 
-Python 3 implementation of the Christofides Algorithm, see [Wikipedia](https://en.wikipedia.org/wiki/Christofides_algorithm) for more details
+Python 3 implementation of the Christofides Algorithm, see [Wikipedia](https://en.wikipedia.org/wiki/Christofides_algorithm) for more details.
+
 It shows step by step the execution of the algorithm, from the starting graph to the result.
 
 ## Prerequisites
